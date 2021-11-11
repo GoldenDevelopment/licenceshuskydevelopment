@@ -31,7 +31,7 @@
 	// This key will be used for the
 	// cryptographic-key-authentication-protection
   // Required lenght: 36 [only 1 & 0]
-	define("CKAP_KEY", "YecoF0I6M05thxLeokoHuW8iUhTdIUInjkfF");
+	define("CKAP_KEY", "DriaW40FktHtjdawdoJ3590aWDj204APWKdk");
   // If you change this key you will also
   // need to change it in the java component
   // by .setSecurityKey('Your-Key');
